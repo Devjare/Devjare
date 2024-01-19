@@ -8,8 +8,8 @@ I'm a backend web developer passionate about building robust solutions with Pyth
 - MongoDB and MySQL databases. 
 
 ## 🚀 Projects
-1. [Expense tracker]() - Django + React Book distribution expense tracker.
-2. [Docker container manager] - Flask + Docker Virtual containers and images manager web application. 
+1. [Expense tracker](https://github.com/Devjare/Django-expense-tracker) - Django + React Book distribution expense tracker.
+2. [Docker container manager](https://github.com/Devjare/DockerManagerFlask) - Flask + Docker Virtual containers and images manager web application. 
 
 ## 🛠️ Technologies
 - Database: MySQL, PostgreSQL, MongoDB

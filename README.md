@@ -1,16 +1,29 @@
-### Hi there 👋
+# Hi, I'm Andres Reyna (Devjare) 👋
 
-<!--
-**Devjare/Devjare** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a backend web developer passionate about building robust solutions with Python, Django, and Flask.
 
-Here are some ideas to get you started:
+## 🔧 Skills
+- Python | Django | Flask
+- Virtualization with Docker
+- MongoDB and MySQL databases. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projects
+1. [Expense tracker]() - Django + React Book distribution expense tracker.
+2. [Docker container manager] - Flask + Docker Virtual containers and images manager web application. 
+
+## 🛠️ Technologies
+- Database: MySQL, PostgreSQL, MongoDB
+- Version Control: [Git/GitHub]
+- Testing: Unittest
+
+## 📚 Education
+- Bachelor in Computer Science, Instituto Tecnologico Superior de El Mante
+
+## 📫 Contact Me
+- LinkedIn: https://www.linkedin.com/in/devjare
+- Work Email: w.areyna@outlook.com
+- Personal Email: andresreyna15@gmail.com 
+
+## 🌱 Interests
+- Exploring AWS, System Design.
+- Learning Django and React.

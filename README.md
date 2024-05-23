@@ -3,7 +3,7 @@
 I'm a backend web developer passionate about building robust solutions with Python, Django, and Flask.
 
 ## 🔧 Skills
-- Python | Django | Flask
+- Python | Django | Go
 - Virtualization with Docker
 - MongoDB and MySQL databases. 
 
